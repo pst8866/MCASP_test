@@ -1,0 +1,1 @@
+"./ADC_sampletask.obj" "./I2C_soc.obj" "./audio_evminit.obj" "./codec_if.obj" "./main_mcasp.obj" "./mcasp_cfg.obj" "./mcasp_soc.obj" "./my_aic31.obj" "./my_aic3106_if.obj" -l"configPkg/linker.cmd" -llibc.a 
